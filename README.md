@@ -1,4 +1,4 @@
-- Olá eu sou Tamara Dias, sou estudante de Rede de Computadores.
+- Olá eu sou Tamara Dias, sou estudante de Análise e Desenvolvimento de Sistemas na Uninter.
 
 <!---
 TamaraDias/TamaraDias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,12 @@ You can click the Preview link to take a look at your changes.
 </div>
   
   ##
- 
+
+ - Estou cursando <strong>Front End</strong> pela Origamid, conclui os módulos de <strong>HTML</strong> e <strong>CSS</strong> e <strong>UI Design</strong>.
+ - Com os conhecimentos adquiridos estou construindo um site de fotografia para minha cunhada anunciar o trabalho dela como fotógrafa... Em breve estará disponível aqui.
+ - Na faculdade já aprendi conseitos e práticas básicas de alguns módulos: <strong>MySQL, Python, C++, Html, Css, JavaScript, POO com Java, UX/UI Design, Métodos ágeis e Análise de Sistemas.</strong>
+
+  ##
 <div> 
   <a href="https://instagram.com/tamaramendesdias?igshid=ZDdkNTZiNTM=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 

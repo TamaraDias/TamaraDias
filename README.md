@@ -9,15 +9,13 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Tamara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Tamara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Tamara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Tamara-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Tamara-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
   ##
 
- - Estou cursando <strong>Front End</strong> pela Origamid, conclui os módulos de <strong>HTML</strong> e <strong>CSS</strong> e <strong>UI Design</strong>.
- - Com os conhecimentos adquiridos estou construindo um site de fotografia para minha cunhada anunciar o trabalho dela como fotógrafa... Em breve estará disponível aqui.
- - Na faculdade já aprendi conseitos e práticas básicas de alguns módulos: <strong>MySQL, Python, C++, Html, Css, JavaScript, POO com Java, UX/UI Design, Métodos ágeis e Análise de Sistemas.</strong>
+ - Estou cursando <strong>Front End</strong> em um curso intensivo da Origamid.
+ - Logo postarei meus projetos...
+ - Na faculdade já aprendi conseitos e práticas básicas de alguns módulos: <strong>MySQL, Python, Html, Css, JavaScript, POO com Java, UX/UI Design, Métodos ágeis e Análise de Sistemas.</strong>
 
   ##
 <div> 
